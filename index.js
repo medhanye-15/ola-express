@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/about', (req, res) => {
-  res.send('Hello World from Express, by Frank!')
+  res.send('Hello World from Express, by Medhanye!')
 })
 
 
